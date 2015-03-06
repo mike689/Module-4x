@@ -1,0 +1,26 @@
+#main{
+    visibility: hidden;
+    background-color: #B43104;
+    position: absolute;
+    height: 75%;
+    width: 100%;
+    overflow: scroll;
+}
+
+#second{
+    visibility: hidden;
+    background-color: #2ECCFA;
+    position: absolute;
+    height: 75%;
+    width: 100%;
+    overflow: scroll;
+}
+
+#img{
+    width: 600px;
+}
+
+footer{
+    position: fixed;
+    bottom: 0px;
+}
